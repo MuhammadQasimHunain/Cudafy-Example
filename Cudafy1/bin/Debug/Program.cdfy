@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CudafyModule Version="1.29.5576.13786" Name="Program" DebugInfo="false" HasCudaSourceCode="false" HasPTX="false" HasBinary="false">
+  <CudaSourceCode></CudaSourceCode>
+  <PTXMODULES />
+  <BinaryModules />
+  <SourceCodes>
+    <SourceCodeFile ID="7fa774ad-848d-4ca4-ba29-be8f15ea9d90" Language="OpenCL" Arch="OpenCL">I2lmIGRlZmluZWQoY2xfa2hyX2ZwNjQpDQojcHJhZ21hIE9QRU5DTCBFWFRFTlNJT04gY2xfa2hyX2ZwNjQ6IGVuYWJsZQ0KI2VsaWYgZGVmaW5lZChjbF9hbWRfZnA2NCkNCiNwcmFnbWEgT1BFTkNMIEVYVEVOU0lPTiBjbF9hbWRfZnA2NDogZW5hYmxlDQojZW5kaWYNCg0KLy8gQ3VkYWZ5MS5Qcm9ncmFtDQpfX2tlcm5lbCAgdm9pZCBDdWRhQ29tcHV0ZUFycmF5KGdsb2JhbCB1bnNpZ25lZCBjaGFyKiBpbWFnZXNmcmFtZSwgaW50IGltYWdlc2ZyYW1lTGVuMCwgaW50IGltYWdlc2ZyYW1lTGVuMSwgaW50IGltYWdlc2ZyYW1lTGVuMiwgZ2xvYmFsIHVuc2lnbmVkIGNoYXIqIGltYWdlc2RhdGEsIGludCBpbWFnZXNkYXRhTGVuMCwgaW50IGltYWdlc2RhdGFMZW4xLCBpbnQgaW1hZ2VzZGF0YUxlbjIpOw0KLy8gQ3VkYWZ5MS5Qcm9ncmFtDQpfX2tlcm5lbCAgdm9pZCBDdWRhQ29tcHV0ZUFkZChnbG9iYWwgdW5zaWduZWQgY2hhciogaW1nMSwgaW50IGltZzFMZW4wLCBpbnQgaW1nMUxlbjEsIGdsb2JhbCB1bnNpZ25lZCBjaGFyKiBpbWcyLCBpbnQgaW1nMkxlbjAsIGludCBpbWcyTGVuMSwgZ2xvYmFsIHVuc2lnbmVkIGNoYXIqIGRpZmZlcmVuY2VzLCBpbnQgZGlmZmVyZW5jZXNMZW4wLCBpbnQgZGlmZmVyZW5jZXNMZW4xLCBnbG9iYWwgYm9vbCogYywgaW50IGNMZW4wKTsNCg0KLy8gQ3VkYWZ5MS5Qcm9ncmFtDQpfX2tlcm5lbCAgdm9pZCBDdWRhQ29tcHV0ZUFycmF5KGdsb2JhbCB1bnNpZ25lZCBjaGFyKiBpbWFnZXNmcmFtZSwgaW50IGltYWdlc2ZyYW1lTGVuMCwgaW50IGltYWdlc2ZyYW1lTGVuMSwgaW50IGltYWdlc2ZyYW1lTGVuMiwgZ2xvYmFsIHVuc2lnbmVkIGNoYXIqIGltYWdlc2RhdGEsIGludCBpbWFnZXNkYXRhTGVuMCwgaW50IGltYWdlc2RhdGFMZW4xLCBpbnQgaW1hZ2VzZGF0YUxlbjIpDQp7DQp9DQovLyBDdWRhZnkxLlByb2dyYW0NCl9fa2VybmVsICB2b2lkIEN1ZGFDb21wdXRlQWRkKGdsb2JhbCB1bnNpZ25lZCBjaGFyKiBpbWcxLCBpbnQgaW1nMUxlbjAsIGludCBpbWcxTGVuMSwgZ2xvYmFsIHVuc2lnbmVkIGNoYXIqIGltZzIsIGludCBpbWcyTGVuMCwgaW50IGltZzJMZW4xLCBnbG9iYWwgdW5zaWduZWQgY2hhciogZGlmZmVyZW5jZXMsIGludCBkaWZmZXJlbmNlc0xlbjAsIGludCBkaWZmZXJlbmNlc0xlbjEsIGdsb2JhbCBib29sKiBjLCBpbnQgY0xlbjApDQp7DQoJZm9yIChpbnQgaSA9IDA7IGkgPCA4MDA7IGkrKykNCgl7DQoJCWZvciAoaW50IGogPSAwOyBqIDwgNjAwOyBqKyspDQoJCXsNCgkJCWRpZmZlcmVuY2VzWyhpKSAqIGRpZmZlcmVuY2VzTGVuMSArICggaildID0gKHVuc2lnbmVkIGNoYXIpYWJzKChpbnQpKGltZzFbKGkpICogaW1nMUxlbjEgKyAoIGopXSAtIGltZzJbKGkpICogaW1nMkxlbjEgKyAoIGopXSkpOw0KCQl9DQoJfQ0KCWludCBudW0gPSAwOw0KCWZvciAoaW50IGsgPSAwOyBrIDwgODAwOyBrKyspDQoJew0KCQlmb3IgKGludCBsID0gMDsgbCA8IDYwMDsgbCsrKQ0KCQl7DQoJCQlpZiAoZGlmZmVyZW5jZXNbKGspICogZGlmZmVyZW5jZXNMZW4xICsgKCBsKV0gPj0gMykNCgkJCXsNCgkJCQludW0rKzsNCgkJCX0NCgkJfQ0KCX0NCglpZiAoKGZsb2F0KW51bSAvIDQ4MDAwLjBmICogMTAwLjBmIDw9IDQuMGYpDQoJew0KCQljWygwKV0gPSBmYWxzZTsNCgl9DQoJZWxzZQ0KCXsNCgkJY1soMCldID0gdHJ1ZTsNCgl9DQp9DQo=</SourceCodeFile>
+  </SourceCodes>
+  <Functions>
+    <CudafyKernelMethod Name="CudaComputeArray" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>Cudafy1.Program</Type>
+      <Assembly>Cudafy1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>Cudafy1</AssemblyName>
+      <AssemblyPath>C:\Users\Qasim\Desktop\Desktop\ProgsCuda\Cudafy1\Cudafy1\bin\Debug\Cudafy1.exe</AssemblyPath>
+      <Checksum>1570636918</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="System.Byte[,,]" Name="imagesframe" Position="0" />
+        <Parameter Type="System.Byte[,,]" Name="imagesdata" Position="1" />
+      </Parameters>
+    </CudafyKernelMethod>
+    <CudafyKernelMethod Name="CudaComputeAdd" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>Cudafy1.Program</Type>
+      <Assembly>Cudafy1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>Cudafy1</AssemblyName>
+      <AssemblyPath>C:\Users\Qasim\Desktop\Desktop\ProgsCuda\Cudafy1\Cudafy1\bin\Debug\Cudafy1.exe</AssemblyPath>
+      <Checksum>1570636918</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="System.Byte[,]" Name="img1" Position="0" />
+        <Parameter Type="System.Byte[,]" Name="img2" Position="1" />
+        <Parameter Type="System.Byte[,]" Name="differences" Position="2" />
+        <Parameter Type="System.Boolean[]" Name="c" Position="3" />
+      </Parameters>
+    </CudafyKernelMethod>
+  </Functions>
+  <Constants />
+  <Types />
+</CudafyModule>

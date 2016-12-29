@@ -1,0 +1,2 @@
+C:\Users\Qasim\Desktop\Desktop\ProgsCuda\Cudafy1\Cudafy1\obj\Debug\Cudafy1.csprojResolveAssemblyReference.cache
+C:\Users\Qasim\Desktop\Desktop\ProgsCuda\Cudafy1\Cudafy1\bin\Debug\Cudafy1.exe.config
